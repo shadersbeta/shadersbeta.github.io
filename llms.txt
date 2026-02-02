@@ -1,0 +1,12 @@
+# Deep Ocean Science Website
+
+Title: The Abyss Project
+Description: A scientific educational resource about the deep ocean, bathypelagic zones, and bioluminescence.
+
+## Main Content
+- Introduction to Ocean Zones
+- Bioluminescence science
+- Deep Sea Exploration technology
+
+## Usage
+This content is for educational purposes.
